@@ -1,0 +1,12 @@
+# Site settings
+title: Vinodh Periyasamy
+email: vinodhkps
+description: someone who codes, debugs, runs, & tries to truly live! 
+lastline: -- hand made with love in nyc --
+baseurl: "" 
+url: "http://vinodhkps.github.io" # the base hostname & protocol for your site
+twitter_username: vinodhkps
+github_username:  vinodhkps
+
+# Build settings
+markdown: kramdown
