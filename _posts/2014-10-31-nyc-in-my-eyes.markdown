@@ -9,14 +9,13 @@ One of the best things that has ever happened to me in the past eight and half y
 is new york city!
 
 I always keep hearing nyc is a love-hate relationship. "I hate that I love New York!". But let me tell you, it was always a love-love relationship with nyc for me!
-Probably the second best thing that has ever happened to me since [chennai]
+Probably the second best since [chennai] :-)
 
 I will continue to take you thru new york as I see it! Here is one for a starter:
 
-[chennai]: http://en.wikipedia.org/wiki/Chennai
-
 ![hudson river parkway](/assets/img/nyc/hudson_river_parkway.jpg)
 
+[chennai]: http://en.wikipedia.org/wiki/Chennai
 
 
 
