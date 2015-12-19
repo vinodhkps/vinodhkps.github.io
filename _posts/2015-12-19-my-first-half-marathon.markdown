@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Running, Team in Training, the Brooklyn Half"
+title:  "Running, Team in Training & the Brooklyn Half"
 date:   2015-12-19 10:15:00
 categories: self
 ---
