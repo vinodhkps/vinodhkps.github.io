@@ -14,6 +14,7 @@ Probably the second best since [chennai] :-)
 I will continue to take you thru new york as I see it! Here is one for a starter:
 
 ![hudson river parkway](/assets/img/nyc/hudson_river_parkway.jpg)
+![central park](/assets/img/nyc/central_park.jpg)
 
 [chennai]: http://en.wikipedia.org/wiki/Chennai
 
