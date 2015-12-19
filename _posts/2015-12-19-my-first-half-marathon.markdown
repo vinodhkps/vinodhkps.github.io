@@ -15,7 +15,7 @@ Thanks to [TNT] for helping me train as well as giving an opportunity to serve t
 
 (Photo: Top - cooking food for the patients, bottom - running the half!) 
 
-![tnt brooklyn half 2015] (/assets/img/personal/tnt_brooklyn_half_2015.jpg)
+![tnt brooklyn half 2015](/assets/img/personal/tnt_brooklyn_half_2015.jpg)
 
 [TNT]: http://www.teamintraining.org/
 [running]: http://well.blogs.nytimes.com/2014/03/20/running-as-therapy/
